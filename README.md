@@ -84,7 +84,7 @@ Follow this project for updates on the prototyping of this open smart device.
 - connectivity to open home automation  devices and systems 
 - power consumption meter
 
-### ⌛ Status: The  Smart DSMR 5+ PowerMeter is being prototyped. Come back later
+### ⌛ Status: The  Smart Garage Door Opener is being prototyped. Come back later
   While I find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository alternatively use the new [DSMR Component](https://esphome.io/components/sensor/dsmr.html) from [ESPHome](https://esphome.io/).
 
 <p align="center">

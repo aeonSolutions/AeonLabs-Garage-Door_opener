@@ -77,7 +77,7 @@ Follow this project for updates on the prototyping of this open smart device.
 - with built-in Fingerprint ID technology used to validate data power measurements that can be used in cases of legal dispute. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
 - Power consumption of only ~320nA when on standby
 - USB-C connectivity with Serial UART
-- 2.4GHz Wireless Radio (WIFI, Bluetooth and all other protocols)
+- 2.4GHz Wireless Radio (WIFI, Bluetooth, and all other protocols)
 - Bluetooth connectivity to open/close the gate from a smartphone
 - Android App
 - real-time information about the status of the gate (open \ closed \ etc ) 
@@ -85,7 +85,7 @@ Follow this project for updates on the prototyping of this open smart device.
 - power consumption meter
 
 ### ⌛ Status: The  Smart Garage Door Opener is being prototyped. Come back later
-  While I find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository alternatively use the new [DSMR Component](https://esphome.io/components/sensor/dsmr.html) from [ESPHome](https://esphome.io/).
+  While I find time and resources to code the firmware for this smart device, feel free to browse other open hardware electronics. 
 
 <p align="center">
   <img height="30px" src="https://esphome.io/_static/logo-text.svg">

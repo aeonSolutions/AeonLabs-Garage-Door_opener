@@ -67,8 +67,8 @@ Follow this project for updates on the prototyping of this open smart device.
 </p>
 
 <p align="center">
-  <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-DSMR-5-Power-Meter/blob/main/media/Fluvius-Slimme-meter-DSMR-P1-poort-activeren.jpg"> <br>
- <sup> A smart Meter with a P1 port from the utilities power company</sup>
+  <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-Garage-Door_opener/blob/main/media/a-portoes-batente.jpg"> <br>
+ <sup>A Smart Door opener</sup>
 </p>
 
 
@@ -84,7 +84,7 @@ Follow this project for updates on the prototyping of this open smart device.
 - connectivity to open home automation  devices and systems 
 - power consumption meter
 
-### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status: The  Smart DSMR 5+ PowerMeter is fully working.
+### ⌛ Status: The  Smart DSMR 5+ PowerMeter is being prototyped. Come back later
   While I find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository alternatively use the new [DSMR Component](https://esphome.io/components/sensor/dsmr.html) from [ESPHome](https://esphome.io/).
 
 <p align="center">
@@ -108,7 +108,7 @@ This code uses my own ESP32 C++ class libraries to expedite the development of c
  </p>
 
 ### Home App for Android™
-HomeApp is a small and easy to use smart home app with a simple framework. The goal of this application is to make remote execution of predefined features as easy and user-friendly as possible to help you get started with smart home technology.
+HomeApp is a small and easy-to-use smart home app with a simple framework. The goal of this application is to make remote execution of predefined features as easy and user-friendly as possible to help you get started with smart home technology.
 
 <p align="center">
 <a href="https://f-droid.org/packages/io.github.domi04151309.home">

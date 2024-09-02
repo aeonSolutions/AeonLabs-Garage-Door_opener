@@ -15,10 +15,10 @@
 </a>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpg" height="300">
+   <img src="https://github.com/aeonSolutions/AeonLabs-Garage-Door_opener/blob/main/media/garage_door_opener_banner.jpg" height="300">
 </p>
 
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >> Garage Door Opener
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
@@ -48,10 +48,9 @@ Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorwar
 
 💬 🆕 There's a new Discord Server for this and all other projects. To join [click here](https://discord.gg/nYe9YMKf).<br>
 
-Garage Door Opener for AC Motors and Hydraulic open \ close of a Garage Door 
 
-
-Today someone offered me an old garage gate complete with two hydraulics and hardware electronics, and now, I decided to add some more to it and design my own open hardware electronics! Main functionalities:
+Today someone offered me an old garage gate complete with two hydraulics and hardware electronics, and now, I decided to add some more to it and design my own open hardware electronics!  <br>
+Follow this project for updates on the prototyping of this open smart device.
 
 
 

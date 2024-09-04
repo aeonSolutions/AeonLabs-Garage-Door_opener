@@ -44,7 +44,7 @@ Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorwar
 
 
 # ⌛ Garage Door Opener
-<sup> **status: Designing in KiCad </sup> <br>
+<sup> **status: Sent for fabrication** </sup> <br>
 
 💬 🆕 There's a new Discord Server for this and all other projects. To join [click here](https://discord.gg/nYe9YMKf).<br>
 

@@ -22,7 +22,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 02-09-2024
+Last update: 04-09-2024
 </p>
 
 ## Contribute to Open Hardware Electronics 💰💰💰
@@ -55,8 +55,8 @@ Follow this project for updates on the prototyping of this open smart device.
 
 
 <p align="center">
-  <img width="335" src="">
-  <img width="335" src=""> <br>
+  <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Garage-Door_opener/blob/main/media/pcb_back.jpg"> <br>
+  <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Garage-Door_opener/blob/main/media/pcb_front.jpg"> <br>
 <sup>Figure 1 - Current pcb revision </sup>
 </p>
 

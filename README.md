@@ -49,7 +49,7 @@ Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorwar
 💬 🆕 There's a new Discord Server for this and all other projects. To join [click here](https://discord.gg/nYe9YMKf).<br>
 
 
-Today someone offered me an old garage gate complete with two hydraulics and hardware electronics, and now, I decided to add some more to it and design my own open hardware electronics!  <br>
+The other day someone offered me an old garage gate complete with two hydraulics and hardware electronics, and now, I decided to add some more to it and design my own open hardware electronics! This device allows opening an entrance or garage door directly from your smartphone!  <br>
 Follow this project for updates on the prototyping of this open smart device.
 
 
